@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:baseline;
+} 
+
+.item {
+  padding: 1px;
+  margin: 1px;
+}
